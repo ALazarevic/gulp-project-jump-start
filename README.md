@@ -1,5 +1,5 @@
 # Gulp project jump start
-This project represents project start with Webpack v4.
+This project represents project start with Gulp v3.
 
 ### System requirements
 npm | yarn
