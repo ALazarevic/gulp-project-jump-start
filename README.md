@@ -8,7 +8,11 @@ npm | yarn
 
 $ npm install
 
-### Project run in development mode
+### Initialize project
+
+$ gulp init
+
+### Start live server which will also track changes and run update
 
 $ gulp serve
 

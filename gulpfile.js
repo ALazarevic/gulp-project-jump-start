@@ -63,6 +63,6 @@ gulp.task('image', () => {
     .pipe(gulp.dest('dist/img/'))
 });
 
-gulp.task('init', ['image', 'sass', 'copy', 'babel', 'serve']);
+gulp.task('init', ['image', 'sass', 'copy', 'babel']);
 
 gulp.task('default', ['serve']);
