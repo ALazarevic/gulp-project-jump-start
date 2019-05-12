@@ -1,0 +1,15 @@
+# Gulp project jump start
+This project represents project start with Webpack v4.
+
+### System requirements
+npm | yarn
+
+### Project setup
+
+$ npm install
+
+### Project run in development mode
+
+$ gulp serve
+
+It will open a new tab in browser. If not, open localhost:3000. Server will serve production build.
